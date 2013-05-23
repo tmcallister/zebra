@@ -1,4 +1,3 @@
-#require 'reloader/sse'
 require 'sse'
 
 class BrowserController < ApplicationController
